@@ -2,7 +2,7 @@
   "name": "monsters",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dabblerVasi.github.io/monsters-rolodex-reactjs-spa",
+  "homepage": "https://vave4.github.io/monsters-rolodex-reactjs-spa",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
